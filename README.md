@@ -9,7 +9,7 @@ Assessment & Data Literacy
 
 ### Crafted with :heart: by:
 
-* [Gretchen Anderson](https://github.com/CenterForAssessment/NCIEA_Internship_2015)
+* [Gretchen Anderson](https://github.com/ganders309)
 * [Damian Betebenner](https://github.com/dbetebenner)
 * [Luciana Cançado](https://github.com/CenterForAssessment/NCIEA_Internship_2015)
 * [Charlie DePascale](https://github.com/CenterForAssessment/NCIEA_Internship_2015)
