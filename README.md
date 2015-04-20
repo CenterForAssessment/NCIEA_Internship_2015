@@ -11,5 +11,5 @@ Assessment & Data Literacy
 
 * [Gretchen Anderson](https://github.com/ganders309)
 * [Damian Betebenner](https://github.com/dbetebenner)
-* [Luciana Cançado](https://github.com/CenterForAssessment/NCIEA_Internship_2015)
+* [Luciana Cançado](https://github.com/lcancado)
 * [Charlie DePascale](https://github.com/CenterForAssessment/NCIEA_Internship_2015)
