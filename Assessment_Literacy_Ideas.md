@@ -6,7 +6,7 @@ Ideas for Assessment Literacy Modules
 - The irrelevance of vertical/interval scaling for growth interpretation.
 
 ## Gretchen
-building a test from a blueprint
+ - [ ] building a test from a blueprint
 
 
 ## Luciana
