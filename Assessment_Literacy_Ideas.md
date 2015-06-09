@@ -8,15 +8,15 @@ Ideas for Assessment Literacy Modules
 ## Gretchen
  - [ ] ~~building a test from a blueprint~~
  - [ ] Interpreting Test Scores
- - *  Raw score, percent correct, and inference about domain mastery
- - *  Scale score and relationship with raw. Redirect to Equivalence module for specific use example. 
- - *  Performance categories and relationship to score
- - *  Interpreting indvidual to peer performance
- - *  Using scores to answer specific questions
- - **  Of the information in this lesson, what information would you use to answer these questions? 
- - ***  How many items did my child get right out of total? 
- - ***  Did my child meet the standards for 6th grade math?
- - ***  How did my child do in comparison to her peers?
+ -   Raw score, percent correct, and inference about domain mastery
+ -   Scale score and relationship with raw. Redirect to Equivalence module for specific use example. 
+ -   Performance categories and relationship to score
+ -   Interpreting indvidual to peer performance
+ -   Using scores to answer specific questions
+ 	 * Of the information in this lesson, what information would you use to answer these questions? 
+ 		* How many items did my child get right out of total? 
+ 		* Did my child meet the standards for 6th grade math?
+   	 	* How did my child do in comparison to her peers?
 
 
 ## Luciana
