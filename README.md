@@ -13,3 +13,12 @@ Assessment & Data Literacy
 * [Damian Betebenner](https://github.com/dbetebenner)
 * [Luciana Cançado](https://github.com/lcancado)
 * [Charlie DePascale](https://github.com/cdepascale)
+
+
+### Git Resources
+
+* [Try Git](https://try.github.io/) is a great interactive tutorial
+
+### JavaScript/D3 Resources
+
+* [D3 Tutorials](http://alignedleft.com/tutorials/d3)
