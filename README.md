@@ -16,12 +16,14 @@ Assessment & Data Literacy
 ## Prerequisites
 
 * [Install Git](https://git-scm.com/downloads)
-* [Install Atom](https://atom.io/)
+* [Install Atom](https://atom.io/) with the following add-on packages
+  * [git-clone](https://atom.io/packages/git-clone)
+  * [git-control](https://atom.io/packages/git-control) (maybe. SourceTree is better)
 * [Install SourceTree](http://www.sourcetreeapp.com/)
 
 ## Process Overview
 
-1. Fork the template Gist (link TBD)
+1. Find a Gist you like and fork it. Don't have one? Try this [simple bar chart example](https://gist.github.com/bclinkinbeard/3a65ba05a662103bb2e9).
 2. Download the Gist code (details TBD)
 3. Modify the code to construct your own Explorable Explanation
 4. Publish your code as a new Gist (details TBD)
