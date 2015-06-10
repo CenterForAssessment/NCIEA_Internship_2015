@@ -23,9 +23,11 @@ Assessment & Data Literacy
 
 ## Process Overview
 
-1. Find a Gist you like and fork it. Don't have one? Try this [simple bar chart example](https://gist.github.com/bclinkinbeard/3a65ba05a662103bb2e9).
-![Fork button](https://github.com/CenterForAssessment/NCIEA_Internship_2015/raw/master/assets/fork_and_copy.gif)
-2. Download the Gist code (details TBD)
+1. Find a Gist you like. If you don't already have one, try this [simple bar chart example](https://gist.github.com/bclinkinbeard/3a65ba05a662103bb2e9).
+2. Fork the Gist and copy the HTTPS clone URL to your clipboard:
+![Fork and copy](https://github.com/CenterForAssessment/NCIEA_Internship_2015/raw/master/assets/fork_and_copy.gif)
+3. In Atom, open the Command Palette with Cmd/Ctrl+Shift+P, or by using the View menu:
+
 3. Modify the code to construct your own Explorable Explanation
 4. Publish your code as a new Gist (details TBD)
 5. Generate and share the [bl.ocks.org](http://bl.ocks.org/) link to your code ([browser extension](https://github.com/mbostock/bl.ocks.org/blob/master/README.md))
