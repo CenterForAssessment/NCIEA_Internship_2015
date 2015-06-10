@@ -24,7 +24,7 @@ Assessment & Data Literacy
 ## Process Overview
 
 1. Find a Gist you like and fork it. Don't have one? Try this [simple bar chart example](https://gist.github.com/bclinkinbeard/3a65ba05a662103bb2e9).
-
+![Fork button](https://github.com/CenterForAssessment/NCIEA_Internship_2015/raw/master/fork.gif)
 2. Download the Gist code (details TBD)
 3. Modify the code to construct your own Explorable Explanation
 4. Publish your code as a new Gist (details TBD)
